@@ -1,0 +1,8 @@
+name: HorsePoop
+main: co.obam.jinkers.horsepoop.HorsePoop
+version: 0.1
+description: OBAM Horse Poop Conversion
+commands:
+  poop:
+    description: Gives you horse poop
+    usage: /poop
